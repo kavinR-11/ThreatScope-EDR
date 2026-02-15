@@ -1,0 +1,9 @@
+{
+    "cpu_threshold": 50,
+    "suspicious_paths": [
+        "C:\\Users\\Public",
+        "C:\\Temp",
+        "C:\\Windows\\Temp"
+    ],
+    "scan_interval": 5
+}
